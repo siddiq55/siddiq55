@@ -1,30 +1,151 @@
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-siddique-70074b292) 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Muhammad%20Siddique&fontSize=64&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0d0d1a&desc=Full-Stack%20Developer%20•%20MERN%20Stack%20•%20Building%20Real-World%20Systems&descAlignY=58&descSize=18"/>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=siddiq55&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=siddiq55&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq55&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=7B9FE0&center=true&vCenter=true&width=700&lines=MERN+Stack+%7C+Full-Stack+Development;Node.js+%7C+Express.js+%7C+REST+APIs;PostgreSQL+%7C+MongoDB+%7C+Supabase;TypeScript+%7C+Python+%7C+React.js;Backend+Engineering+%7C+Clean+Architecture" />
 
----
-[![](https://visitcount.itsvg.in/api?id=siddiq55&icon=0&color=0)](https://visitcount.itsvg.in)
+<br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://img.shields.io/badge/MERN_Stack-0d0d1a?style=for-the-badge&labelColor=1a1a2e&color=7B9FE0"/>
+<img src="https://img.shields.io/badge/Backend_Engineering-0d0d1a?style=for-the-badge&labelColor=1a1a2e&color=7B9FE0"/>
+<img src="https://img.shields.io/badge/Open_to_Opportunities-0d0d1a?style=for-the-badge&labelColor=1a1a2e&color=7B9FE0"/>
 
-<!--
-**siddiq55/siddiq55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+I turn ideas into production-grade systems. I'm a Full-Stack Developer specializing in the **MERN stack**, with a strong focus on **backend engineering**, clean architecture, and building things that actually ship.
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%">
+
+**🔭 Currently Building**
+
+Production style backend systems including a **SaaS Subscription Management Platform**  featuring Stripe payments, JWT auth, webhook handling, and plan based feature gating. Real world stuff.
+
+**🌱 Learning Journey**
+
+Deep diving into **system design**, **scalable backend architecture**, and exploring **NestJS** for enterprise level Node.js development.
+
+  </td>
+    <td width="50%">
+
+**💡 What Drives Me**
+
+Building clean, production grade software that solves real problems. Portfolio projects that reflect actual engineering not just tutorials.
+
+**👯 Open to Collaborate**
+
+MERN stack projects, backend APIs, SaaS tools, or anything that ships to real users.
+
+  </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+
+<div align="center">
+
+<br>
+
+
+📧 **Email:** msiddiq5565@gmail.com
+
+🔗 **LinkedIn:** [Connect with me](https://linkedin.com/in/siddiq01)
+
+<br>
+
+</div>
+
+<div align="center">
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
+
+<div align="center">
+
+### 『 Full-Stack 』
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Frontend
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
+
+```
+React.js         ████████████░  92%
+TypeScript       ████████████░  88%
+JavaScript       █████████████  95%
+HTML/CSS         █████████████  96%
+Tailwind CSS     ███████████░   88%
+```
+
+#### Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+
+```
+Node.js          ████████████░  90%
+Express.js       ████████████░  90%
+REST APIs        ████████████░  92%
+Python           ████████░░░░   75%
+JWT / Auth       ███████████░   88%
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### Databases
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,supabase,prisma" />
+
+```
+PostgreSQL       ███████████░   88%
+MongoDB          ███████████░   87%
+Supabase         █████████░░░   82%
+Prisma ORM       ███████████░   85%
+```
+
+#### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+```
+Git/GitHub       █████████████  95%
+Postman          ████████████░  90%
+Docker           ████████░░░░   72%
+Stripe API       ████████████░  88%
+```
+
+</td>
+</tr>
+</table>
+
+#### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,python" />
+
+</div>
+
+<div align="center">
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+
